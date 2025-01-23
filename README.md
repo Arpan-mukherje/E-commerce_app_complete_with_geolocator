@@ -6,9 +6,9 @@ Follow the steps below to get started with running the application on your local
 
 1. Clone the git Repository:
 
- Open a terminal or Git Bash, then run 
+   Open a terminal or Git Bash, then run 
 
- command: git clone https://github.com/Arpan-mukherje/E-commerce_app_complete_with_geolocator.git
+   command: git clone https://github.com/Arpan-mukherje/E-commerce_app_complete_with_geolocator.git
 
 
 2. Open the Folder in VS Code (or your preferred code editor)
