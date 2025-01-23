@@ -1,16 +1,19 @@
 # ecommerce_app_complete
 
-A new Flutter project.
+Follow the steps below to get started with running the application on your local machine.
 
-## Getting Started
+## Steps to Run the Flutter Application
 
-This project is a starting point for a Flutter application.
+1. Clone the git Repository:
 
-A few resources to get you started if this is your first Flutter project:
+ Open a terminal or Git Bash, then run 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ command: git clone https://github.com/your-repository-url.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+2. Open the Folder in VS Code (or your preferred code editor)
+3. Install Project Dependencies:
+    command: flutter pub get
+
+4. Run the App:
+   command: flutter run
